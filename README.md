@@ -25,11 +25,24 @@ A **GUI-based Library Management System** developed using **Core Java** and **Ja
 **Dashboard**
 ---
 <img width="1870" height="872" alt="dasbord" src="https://github.com/user-attachments/assets/ce7d6c93-8877-4266-8ac9-2f1c8cb00788" />
+
 ---
-**student**
+**Student**
+
 ---
-<img width="1246" height="1077" alt="removestudent" src="https://github.com/user-attachments/assets/61318566-0e67-4d3a-a6e8-fb0d6e007bd0" />
+
+<img width="1246" height="1077" alt="removestudent" src="https://github.com/user-attachments/assets/915e7ec2-4ae0-4f58-9426-d58af8357e27" />
+
 ---
+
+**Staff**
+
+---
+
+<img width="1247" height="997" alt="staffinfo" src="https://github.com/user-attachments/assets/b8cba6c2-37df-410d-983b-8940ae4300c8" />
+
+---
+
 
 
 
